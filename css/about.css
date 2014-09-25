@@ -1,0 +1,97 @@
+
+
+body {
+    padding: 20px;
+
+}
+
+.container{
+    border-top-style: solid;
+}
+
+
+#nav ul li {
+    display: inline-block;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px
+    margin-bottom: 20px;
+    padding: 10px;
+    box-shadow: 0 1px 2px gray;
+    box-sizing: border-box;
+}
+
+h1 { 
+    text-align: center
+    text-transform: uppercase;
+}
+
+#logo {
+    display: inline-block;
+    width: 960px;
+    background: white;
+    float: left;
+    width: 80%;
+    margin: 1%;
+    padding: 10px;
+    box-shadow: 0 1px 2px gray;
+    box-sizing: border-box;
+}
+
+
+#bigphoto {
+    text-align: center
+    width: 1060px;
+    background: white;
+    float: left;
+    width: 96%;
+    display: inline-block;
+    margin: 1%;
+    padding: 10px;
+    box-shadow: 0 1px 2px gray;
+    background: black;
+    box-sizing: border-box;
+    border: 3px blue;
+    
+}
+p {
+    color: white;
+    font-size: 20px;
+
+}
+IMG.displayed {
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 1080px
+    margin: 20px;
+    height: 400px;
+    width: 400px;
+    float: center;
+
+}
+
+IMG.indiame {
+    display:block;
+    float: left;
+    border: 4px;
+    border: white;
+    height: 300px;
+    width: 400px;
+    
+}
+
+IMG.streetsofindia {
+    display:block;
+    float: right;
+    height: 300px;
+    width: 400px;
+   
+}
+
+
+
+
+
+
+
